@@ -6,7 +6,6 @@ updates:
       interval: "daily"
     labels:
       - "triage-required"
-      - "wwebster-testing"
     assignees:
       - "wwebster-rr"
     reviewers:
