@@ -12,3 +12,4 @@ updates:
       - "wwebster-rr"
     commit-message:
       prefix: "pip"
+    open-pull-requests-limit: 0
