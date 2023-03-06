@@ -9,6 +9,8 @@
 > This workshop is designed to get you familiar with GitHub Advanced Security (GHAS) so that you can better understand how to use it in your own repositories. You'll use GitHub Advanced Security features like code scanning and secret scanning to detect vulnerabilities, and see how to use automation to detect these issues before they reach production.
 
 ## :mega: Prerequisites
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwwebster-rr%2Fdevsecops-automation-with-ghas.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwwebster-rr%2Fdevsecops-automation-with-ghas?ref=badge_shield)
+
 
 To participate in the workshop you need a GitHub account and need to be invited to the workshop organization [githubuniverseworkshops](https://github.com/githubuniverseworkshops). If your repository hasn't been automatically created in the workshop organization, create a new project and push a copy of the `devsecops-automation-with-ghas` project.
 
@@ -38,3 +40,7 @@ https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerab
   - [RepositoryVulnerabilityAlert](https://docs.github.com/en/free-pro-team@latest/graphql/reference/objects#repositoryvulnerabilityalert)
 - [REST API](https://docs.github.com/en/free-pro-team@latest/rest)
 - Test
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwwebster-rr%2Fdevsecops-automation-with-ghas.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwwebster-rr%2Fdevsecops-automation-with-ghas?ref=badge_large)
